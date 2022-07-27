@@ -1,4 +1,4 @@
-# [Mr.Yao's HomePage](https://mryaoxx.github.io)
+# [Yao's HomePage](https://mryaoxx.github.io)
 
 [![MrYaoxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=mryaoxx)](https://mryaoxx.github.io)
 
